@@ -2649,7 +2649,7 @@ lib64/libvcodec_cap.so|71d3741396fa7d73ed4d042c56deba860e3476f5
 lib64/libvcodec_capenc.so|01b8c4b442d0928c99529f0b76e38782e866980b
 
 # MTK-IMS - from V12.5.16.0.RKLMIXM (patched)
--priv-app/ImsService/ImsService.apk|b4a96e5f8ecdf782e66f7d848ce28d4b3b1083ff
+-priv-app/ImsService/ImsService.apk|6e7a50492767fe281c3293229001413ee1a31eaa
 
 # Media (OMX) - from Project Kasumi v1 build
 vendor/bin/hw/android.hardware.media.omx@1.0-service|0d53f4462ce63112821512b84994a6acab1e4cf6
