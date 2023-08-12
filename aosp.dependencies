@@ -16,19 +16,22 @@
     "remote": "pixel-devices-blobs"
   },
   {
-    "repository": "PixelExperience/vendor_mediatek-opensource",
+    "repository": "vendor_mediatek-opensource",
     "target_path": "vendor/mediatek/opensource",
-    "branch": "thirteen"
+    "branch": "thirteen",
+    "remote": "pixel-devices-blobs"
   },
   {
-    "repository": "PixelExperience/vendor_mediatek_interfaces",
+    "repository": "vendor_mediatek_interfaces",
     "target_path": "vendor/mediatek/interfaces",
-    "branch": "thirteen"
+    "branch": "thirteen",
+    "remote": "pixel-devices-blobs"
   },
   {
-    "repository": "PixelExperience/device_mediatek_common",
+    "repository": "device_mediatek_common",
     "target_path": "device/mediatek/common",
-    "branch": "thirteen"
+    "branch": "thirteen",
+    "remote": "pixel-devices-blobs"
   },
   {
     "repository": "PixelExperience/device_mediatek_sepolicy_vndr",
