@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2023 Beru Krugermeier
+     SPDX-License-Identifier: GPL-2.0-only
+-->
+<permissions>
+    <privapp-permissions package="com.google.android.as">
+        <permission name="android.permission.SET_SYSTEM_AUDIO_CAPTION"/>
+    </privapp-permissions>
+</permissions>
