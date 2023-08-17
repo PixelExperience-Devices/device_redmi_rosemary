@@ -1,3 +1,2 @@
 # Inherit device specific props
-import /product/${ro.boot.hwname}.build.prop
-import /product/${ro.boot.product.hardware.sku}.build.prop
+import /product/${ro.boot.product.vendor.sku}.build.prop

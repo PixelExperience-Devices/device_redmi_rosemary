@@ -19,5 +19,4 @@ persist.dbg.wfc_avail_ovr=1
 ro.boot.verifiedbootstate=green
 
 # Inherit device specific props
-import /system/build_${ro.boot.hwname}.build.prop
-import /system/${ro.boot.product.hardware.sku}.build.prop
+import /system/${ro.boot.product.vendor.sku}.build.prop

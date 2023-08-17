@@ -42,18 +42,23 @@ PRODUCT_COPY_FILES += \
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/props/sku/system/rosemary.build.prop:$(TARGET_COPY_OUT_SYSTEM)/rosemary.build.prop \
     $(LOCAL_PATH)/props/sku/system/secret.build.prop:$(TARGET_COPY_OUT_SYSTEM)/secret.build.prop \
+    $(LOCAL_PATH)/props/sku/system/secretr.build.prop:$(TARGET_COPY_OUT_SYSTEM)/secretr.build.prop \
     $(LOCAL_PATH)/props/sku/system/maltose.build.prop:$(TARGET_COPY_OUT_SYSTEM)/maltose.build.prop \
     $(LOCAL_PATH)/props/sku/product/rosemary.build.prop:$(TARGET_COPY_OUT_PRODUCT)/rosemary.build.prop \
     $(LOCAL_PATH)/props/sku/product/secret.build.prop:$(TARGET_COPY_OUT_PRODUCT)/secret.build.prop \
+    $(LOCAL_PATH)/props/sku/product/secretr.build.prop:$(TARGET_COPY_OUT_PRODUCT)/secretr.build.prop \
     $(LOCAL_PATH)/props/sku/product/maltose.build.prop:$(TARGET_COPY_OUT_PRODUCT)/maltose.build.prop \
     $(LOCAL_PATH)/props/sku/vendor/rosemary.build.prop:$(TARGET_COPY_OUT_VENDOR)/rosemary.build.prop \
     $(LOCAL_PATH)/props/sku/vendor/secret.build.prop:$(TARGET_COPY_OUT_VENODR)/secret.build.prop \
+    $(LOCAL_PATH)/props/sku/vendor/secretr.build.prop:$(TARGET_COPY_OUT_VENODR)/secretr.build.prop \
     $(LOCAL_PATH)/props/sku/vendor/maltose.build.prop:$(TARGET_COPY_OUT_VENDOR)/maltose.build.prop \
     $(LOCAL_PATH)/props/sku/odm/rosemary.build.prop:$(TARGET_COPY_OUT_VENDOR)/odm/etc/rosemary.build.prop \
     $(LOCAL_PATH)/props/sku/odm/secret.build.prop:$(TARGET_COPY_OUT_VENODR)/odm/etc/secret.build.prop \
+    $(LOCAL_PATH)/props/sku/odm/secretr.build.prop:$(TARGET_COPY_OUT_VENODR)/odm/etc/secretr.build.prop \
     $(LOCAL_PATH)/props/sku/odm/maltose.build.prop:$(TARGET_COPY_OUT_VENDOR)/odm/etc/maltose.build.prop \
     $(LOCAL_PATH)/props/sku/system_ext/rosemary.build.prop:$(TARGET_COPY_OUT_SYSTEM_EXT)/rosemary.build.prop \
     $(LOCAL_PATH)/props/sku/system_ext/secret.build.prop:$(TARGET_COPY_OUT_SYSTEM_EXT)/secret.build.prop \
+    $(LOCAL_PATH)/props/sku/system_ext/secretr.build.prop:$(TARGET_COPY_OUT_SYSTEM_EXT)/secretr.build.prop \
     $(LOCAL_PATH)/props/sku/system_ext/maltose.build.prop:$(TARGET_COPY_OUT_SYSTEM_EXT)/maltose.build.prop
 
 # Audio

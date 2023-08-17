@@ -16,5 +16,4 @@ bluetooth.profile.pbap.server.enabled=true
 bluetooth.profile.sap.server.enabled=true
 
 # Inherit device specific props
-import /system/system_ext/${ro.boot.hwname}.build.prop
-import /system/system_ext/${ro.boot.product.hardware.sku}.build.prop
+import /system/system_ext/${ro.boot.product.vendor.sku}.build.prop
